@@ -26,12 +26,12 @@
       "minecraft:lake_lava"
     ],
     [
-	"minecraft:large_dripstone"
-	],
+      "minecraft:large_dripstone",
+      "minecraft:amethyst_geode"
+    ],
     [
       "minecraft:prototype_fossil_upper",
       "minecraft:prototype_fossil_lower",
-      "minecraft:amethyst_geode",
       "minecraft:monster_room"
     ],
     [
