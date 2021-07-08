@@ -32,7 +32,9 @@
     [
       "minecraft:monster_room"
     ],
-    [],
+    [
+      "fresh:snow_patch"
+    ],
     [],
     [
       "minecraft:prototype_ore_dirt",
